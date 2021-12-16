@@ -1,0 +1,220 @@
+.header-first {
+    display:flex;
+    flex-direction: row;
+    width: 1440px;
+    height: 100px;
+}
+.logo {
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 100px;
+    top: 17px;
+}
+.stick-first {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 258px;
+    top: 48px;
+    background: #E2E2E2;
+}
+.ua-ru {
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 28px;
+}
+.ua {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ru {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    background-color: rgb(65, 228, 92);
+}
+.stick-second {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 339px;
+    top: 48px;
+    background: #E2E2E2;
+}
+.usd-eur {
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.usd {
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+}
+.eur {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 54px;
+}
+.stick-third {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 465px;
+    top: 48px;
+    background: #E2E2E2;
+}
+.icon-facebook {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 480px;
+    top: 54px;
+}
+.icon-instagram {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 500px;
+    top: 54px;
+}
+.icon-youtube {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 523px;
+    top: 54px;
+}
+.stick-fourth {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 601px;
+    top: 48px;
+    background: #E2E2E2;
+}
+.number {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+}
+.number-first {
+    position: absolute;
+    width: 128px;
+    height: 21px;
+    left: 627px;
+    top: 29px;
+}
+.number-second {
+    position: absolute;
+    width: 120px;
+    height: 21px;
+    left: 627px;
+    top: 55px;
+}
+.icon-phone {
+    position: absolute;
+    height: 40px;
+    left: 737px;
+    top: 55px;
+}
+.stick-fifth {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 826px;
+    top: 48px;
+    background: #E2E2E2;
+}
+.gradient-button-first {
+    text-decoration: none;
+    display: inline-block;
+    color:rgb(15, 15, 15);
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    position: absolute;
+    width: 154px;
+    height: 33px;
+    left: 862px;
+    top: 23px;
+    background: #EFF3F6;
+    border-radius: 2px;
+    text-align: center;
+  }
+  .gradient-button-second {
+    text-decoration: none;
+    display: inline-block;
+    color:rgb(15, 15, 15);
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    position: absolute;
+    width: 154px;
+    height: 33px;
+    left: 1132px;
+    top: 23px;
+    background: #EFF3F6;
+    border-radius: 2px;
+    text-align: center;
+  }
+  .stick-sixth {
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 1387px;
+    top: 48px;
+    background: #EFF3F6;
+  }
+  hr {
+    background: #D0D0D0;
+  }
+  .search {
+      margin-left: 60px;
+  }
+  .row-main, .row {
+      display: flex;
+      flex-direction: row;
+  }
+  a {
+    text-decoration: none;
+  }
+  .a {
+      font-family: cursive;
+      margin-left:15px;
+      margin-top:0px;
+      color:rgb(65, 65, 65);
+  }
+  .a:hover {
+      color:whitesmoke;
+      background-color: rgb(36, 36, 36);
+  }
+  .image-main {
+    position: absolute;
+    width: 1440px;
+    height: 490px;
+    left: 0px;
+    top: 170px;
+  }
